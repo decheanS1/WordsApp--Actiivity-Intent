@@ -1,3 +1,166 @@
 <resources>
-    <string name="app_name">Lab3</string>
+    <string name="app_name">Words App</string>
+    <string name="action_switch_layout">Switch Layout</string>
+
+    <string-array name="words">
+        <item>about</item>
+        <item>acidic</item>
+        <item>acne</item>
+        <item>acrid</item>
+        <item>anchor</item>
+
+        <item>back</item>
+        <item>balloon</item>
+        <item>basket</item>
+        <item>bench</item>
+        <item>best</item>
+
+        <item>camera</item>
+        <item>catapult</item>
+        <item>center</item>
+        <item>children</item>
+        <item>city</item>
+        <item>class</item>
+
+        <item>data</item>
+        <item>day</item>
+        <item>details</item>
+        <item>development</item>
+        <item>dine</item>
+        <item>dream</item>
+
+        <item>each</item>
+        <item>education</item>
+        <item>electric</item>
+        <item>elephant</item>
+        <item>emerald</item>
+
+        <item>family</item>
+        <item>file</item>
+        <item>find</item>
+        <item>first</item>
+        <item>flair</item>
+        <item>flight</item>
+
+        <item>game</item>
+        <item>general</item>
+        <item>glass</item>
+        <item>good</item>
+        <item>gram</item>
+        <item>gray</item>
+
+        <item>haircut</item>
+        <item>health</item>
+        <item>hearsay</item>
+        <item>help</item>
+
+        <item>ice</item>
+        <item>icon</item>
+        <item>inbox</item>
+        <item>incomplete</item>
+
+        <item>item</item>
+        <item>jackal</item>
+        <item>january</item>
+        <item>job</item>
+        <item>join</item>
+        <item>joke</item>
+
+
+        <item>kangaroo</item>
+        <item>keep</item>
+        <item>keyboard</item>
+        <item>kind</item>
+        <item>kingdom</item>
+        <item>knowledge</item>
+
+        <item>landscape</item>
+        <item>last</item>
+        <item>late</item>
+        <item>laugh</item>
+        <item>lemon</item>
+        <item>letter</item>
+
+        <item>madeleine</item>
+        <item>magazine</item>
+        <item>make</item>
+        <item>music</item>
+
+        <item>name</item>
+        <item>need</item>
+        <item>negotiate</item>
+        <item>news</item>
+        <item>next</item>
+
+        <item>oak</item>
+        <item>octopus</item>
+        <item>online</item>
+        <item>only</item>
+        <item>opposite</item>
+
+
+        <item>page</item>
+        <item>painting</item>
+        <item>people</item>
+        <item>pillow</item>
+        <item>pizza</item>
+        <item>podcast</item>
+
+        <item>quality</item>
+        <item>quantity</item>
+        <item>query</item>
+        <item>quest</item>
+
+        <item>read</item>
+        <item>real</item>
+        <item>recipe</item>
+        <item>report</item>
+        <item>research</item>
+
+        <item>search</item>
+        <item>secret</item>
+        <item>see</item>
+        <item>seed</item>
+        <item>service</item>
+
+        <item>taxi</item>
+        <item>tidy</item>
+        <item>time</item>
+        <item>together</item>
+        <item>tourist</item>
+
+        <item>under</item>
+        <item>unicorn</item>
+        <item>uniform</item>
+        <item>unique</item>
+        <item>united</item>
+
+        <item>value</item>
+        <item>various</item>
+        <item>vase</item>
+        <item>version</item>
+
+        <item>walrus</item>
+        <item>wander</item>
+        <item>well</item>
+        <item>whirlwind</item>
+
+        <item>xanthin</item>
+        <item>xenial</item>
+        <item>xenolith</item>
+        <item>xenon</item>
+
+        <item>yacht</item>
+        <item>year</item>
+        <item>yield</item>
+        <item>yoga</item>
+
+        <item>zein</item>
+        <item>zero</item>
+        <item>zigzag</item>
+        <item>zine</item>
+
+    </string-array>
+
+
 </resources>
